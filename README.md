@@ -2,11 +2,11 @@
 
 Clone Git ini terlebih dahulu.
 
-Setelah di Clone Buat branch dengan nama-exam-1.
+Setelah di Clone Buat branch dengan namakalian-exam-1.
 
 contoh: syukron-exam-1
 
-Nama file nya nama-soal-1.rb
+Nama file nya namakalian-soal-1.rb
 
 contoh: syukron-soal-1.rb
 
