@@ -17,3 +17,6 @@ Jangan ada yang nge push ke master.
 Nanti akan di cek.
 
 Yang tidak push ke branch tidak akan di nilai.
+
+
+#DWISESHA BAGAS
