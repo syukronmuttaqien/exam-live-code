@@ -3,7 +3,7 @@ tas=[]
 
 puts "============lemari============="
 
-puts lemari[1],lemari[3]
+print lemari[1],lemari[3]
 
 puts "============tas============="
 
