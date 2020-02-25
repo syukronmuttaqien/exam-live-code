@@ -6,6 +6,10 @@ Setelah di Clone Buat branch dengan nama-exam-1.
 
 contoh: syukron-exam-1
 
+Nama file nya nama-soal-1.rb
+
+contoh: syukron-soal-1.rb
+
 Lalu push ke branch masing - masing.
 
 Jangan ada yang nge push ke master.
