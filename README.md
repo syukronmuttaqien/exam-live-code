@@ -2,7 +2,8 @@
 
 Clone Git ini terlebih dahulu.
 
-Setelah di Clone Buat branch dengan nama-exam-1.
+Setelah di Clone Buat branch dengan nama-exam-1. \n
+
 contoh: syukron-exam-1
 
 Lalu push ke branch masing - masing.
